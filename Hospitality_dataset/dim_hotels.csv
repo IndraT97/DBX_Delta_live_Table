@@ -1,0 +1,26 @@
+property_id,property_name,category,city,key
+16558,India Grands,Luxury,Delhi,1
+16559,India Exotica,Luxury,Mumbai,2
+16560,India City,Business,Delhi,3
+16561,India Blu,Luxury,Delhi,4
+16562,India Bay,Luxury,Delhi,5
+16563,India Palace,Business,Delhi,6
+17558,India Grands,Luxury,Mumbai,7
+17559,India Exotica,Luxury,Mumbai,8
+17560,India City,Business,Mumbai,9
+17561,India Blu,Luxury,Mumbai,10
+17562,India Bay,Luxury,Mumbai,11
+17563,India Palace,Business,Mumbai,12
+18558,India Grands,Luxury,Hyderabad,13
+18559,India Exotica,Luxury,Hyderabad,14
+18560,India City,Business,Hyderabad,15
+18561,India Blu,Luxury,Hyderabad,16
+18562,India Bay,Luxury,Hyderabad,17
+18563,India Palace,Business,Hyderabad,18
+19558,India Grands,Luxury,Bangalore,19
+19559,India Exotica,Luxury,Bangalore,20
+19560,India City,Business,Bangalore,21
+19561,India Blu,Luxury,Bangalore,22
+19562,India Bay,Luxury,Bangalore,23
+19563,India Palace,Business,Bangalore,24
+17564,India Seasons,Business,Mumbai,25
