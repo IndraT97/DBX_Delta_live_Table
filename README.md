@@ -34,7 +34,7 @@ To explore the contents of this repository:
 1. **Clone the repository**:
 
     ```sh
-    git clone https://github.com/IndraT97/SQL.git
+    git clone https://github.com/IndraT97/DBX_Delta_live_Table.git
     ```
 
 2. **Navigate through the directories** to find case studies, platform solutions, or projects of interest.
